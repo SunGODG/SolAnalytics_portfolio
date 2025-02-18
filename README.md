@@ -4,7 +4,7 @@
  
 Conditional formatting is a spreadsheet tool that changes how cells appear when values meet specific conditions.
 
-Open the spreadsheet: https://docs.google.com/spreadsheets/d/16BE6vk-0ALYDLTiCDW5fCYcmmrPTenTCfvrnDuuaprI/edit?gid=1764281342#gid=1764281342
+Open the spreadsheet: (https://docs.google.com/spreadsheets/d/16BE6vk-0ALYDLTiCDW5fCYcmmrPTenTCfvrnDuuaprI/edit?gid=1764281342#gid=1764281342)
 
 Select the range of cells to which you’ll apply conditional formatting.
 In this example, you’ll select columns A through L, except for columns F and H. To select all columns except for F and H: 								
